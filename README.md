@@ -2,3 +2,5 @@
 
 ### Attendees (Filled through branching):
 - Josh Guo
+- James Na
+- Anu Ponnusamy
