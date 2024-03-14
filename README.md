@@ -1,4 +1,4 @@
 # Welcome to GitGud101!
 
-### Attendees:
+### Attendees (Filled through branching):
 - Josh Guo
