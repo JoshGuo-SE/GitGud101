@@ -4,3 +4,4 @@
 - Josh Guo
 - James Na
 - Anu Ponnusamy
+- Joshua Bocskei
