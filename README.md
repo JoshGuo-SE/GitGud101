@@ -3,3 +3,4 @@
 ### Attendees (Filled through branching):
 - Josh Guo
 - Joshua Bocskei
+- Adam Qacha
